@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating autonomous_delivery_robot.egg-info
+writing autonomous_delivery_robot.egg-info/PKG-INFO
+writing dependency_links to autonomous_delivery_robot.egg-info/dependency_links.txt
+writing entry points to autonomous_delivery_robot.egg-info/entry_points.txt
+writing requirements to autonomous_delivery_robot.egg-info/requires.txt
+writing top-level names to autonomous_delivery_robot.egg-info/top_level.txt
+writing manifest file 'autonomous_delivery_robot.egg-info/SOURCES.txt'
+reading manifest file 'autonomous_delivery_robot.egg-info/SOURCES.txt'
+writing manifest file 'autonomous_delivery_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/lib/python3.10/site-packages/autonomous-delivery-robot.egg-link (link to .)
+Installing delivery_manager script to /home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/lib/autonomous_delivery_robot
+
+Installed /home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot
+running symlink_data
+creating /home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/share/ament_index/resource_index/packages
+symbolically linking /home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot/resource/autonomous_delivery_robot -> /home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/share/ament_index/resource_index/packages
+symbolically linking /home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot/package.xml -> /home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/share/autonomous_delivery_robot

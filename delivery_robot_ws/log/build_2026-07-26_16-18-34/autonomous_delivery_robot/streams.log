@@ -1,0 +1,22 @@
+[1.049s] Invoking command in '/home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot': PYTHONPATH=/home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot/build --no-deps symlink_data
+[1.338s] running develop
+[1.479s] running egg_info
+[1.498s] creating autonomous_delivery_robot.egg-info
+[1.499s] writing autonomous_delivery_robot.egg-info/PKG-INFO
+[1.500s] writing dependency_links to autonomous_delivery_robot.egg-info/dependency_links.txt
+[1.500s] writing entry points to autonomous_delivery_robot.egg-info/entry_points.txt
+[1.500s] writing requirements to autonomous_delivery_robot.egg-info/requires.txt
+[1.500s] writing top-level names to autonomous_delivery_robot.egg-info/top_level.txt
+[1.500s] writing manifest file 'autonomous_delivery_robot.egg-info/SOURCES.txt'
+[1.528s] reading manifest file 'autonomous_delivery_robot.egg-info/SOURCES.txt'
+[1.529s] writing manifest file 'autonomous_delivery_robot.egg-info/SOURCES.txt'
+[1.543s] running build_ext
+[1.543s] Creating /home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/lib/python3.10/site-packages/autonomous-delivery-robot.egg-link (link to .)
+[1.544s] Installing delivery_manager script to /home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/lib/autonomous_delivery_robot
+[1.545s] 
+[1.545s] Installed /home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot
+[1.545s] running symlink_data
+[1.546s] creating /home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/share/ament_index/resource_index/packages
+[1.546s] symbolically linking /home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot/resource/autonomous_delivery_robot -> /home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/share/ament_index/resource_index/packages
+[1.546s] symbolically linking /home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot/package.xml -> /home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/share/autonomous_delivery_robot
+[1.579s] Invoked command in '/home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot' returned '0': PYTHONPATH=/home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/delivery_robot_ws/install/autonomous_delivery_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vboxuser/delivery_robot_ws/build/autonomous_delivery_robot/build --no-deps symlink_data

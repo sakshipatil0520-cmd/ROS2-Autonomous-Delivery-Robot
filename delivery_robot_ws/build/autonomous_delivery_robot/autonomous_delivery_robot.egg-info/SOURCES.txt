@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+autonomous_delivery_robot/__init__.py
+autonomous_delivery_robot/delivery_manager.py
+autonomous_delivery_robot/delivery_tasks.py
+autonomous_delivery_robot.egg-info/PKG-INFO
+autonomous_delivery_robot.egg-info/SOURCES.txt
+autonomous_delivery_robot.egg-info/dependency_links.txt
+autonomous_delivery_robot.egg-info/entry_points.txt
+autonomous_delivery_robot.egg-info/requires.txt
+autonomous_delivery_robot.egg-info/top_level.txt
+autonomous_delivery_robot.egg-info/zip-safe
+resource/autonomous_delivery_robot

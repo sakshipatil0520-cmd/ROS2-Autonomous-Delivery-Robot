@@ -1,0 +1,2 @@
+[console_scripts]
+delivery_manager = autonomous_delivery_robot.delivery_manager:main
